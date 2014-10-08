@@ -1,0 +1,14 @@
+<ul class="nav nav-tabs" role="tablist">
+    <li ui-sref-active="active">
+        <a href="" ui-sref="cases">open</a>
+    </li>
+    <li ui-sref-active="active">
+        <a href="" ui-sref="closed">closed</a>
+    </li>
+</ul>
+<br/>
+<ul class="nav nav-pills nav-stacked">
+    <li ui-sref-active="active" ng-repeat="case in cases">
+        <a href="" ui-sref="cases.details({caseId:case.number})">{{case.subject}}</a>
+    </li>
+</ul>
