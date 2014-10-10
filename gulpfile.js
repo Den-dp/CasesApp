@@ -3,7 +3,7 @@ var nodemon = require('gulp-nodemon');
 
 gulp.task('server', function(){
     nodemon({
-        script: 'api/api.js',
+        script: 'server/server.js',
         ext: 'js'
     });
 });
