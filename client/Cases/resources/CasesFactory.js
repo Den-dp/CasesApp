@@ -1,7 +1,4 @@
-angular.module('CasesApp').factory('CasesFactory', function($resource){
-    return $resource('http://localhost:3000/api/cases/:caseId', {
-            caseId: '@Id'
-        },
-        {'get': {method: 'GET', isArray: true}}
-    );
-});
+angular.module('CasesApp')
+    .factory('CasesFactory', function ($resource) {
+        return $resource('/api/cases/:caseId');
+    });

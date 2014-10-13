@@ -1,5 +1,6 @@
 var express = require('express');
-var db = require('./data')['db'];
+var db = require('./data');
+var port = process.env.PORT || 3000;
 
 var app = express()
     // delayed responses for simulation of a bad connection
@@ -8,9 +9,9 @@ var app = express()
 
 
 /**
- * http://localhost:3000/api/cases
- * http://localhost:3000/api/cases?closed=true
- * http://localhost:3000/api/cases?closed=false
+ * /api/cases
+ * /api/cases?closed=true
+ * /api/cases?closed=false
  */
 app.get('/api/cases', function(req, res){
     var filterClosed = req.query.closed == 'true';
@@ -27,7 +28,7 @@ app.get('/api/cases', function(req, res){
 
 
 /**
- * http://localhost:3000/api/cases/00189394
+ * /api/cases/00189394
  */
 app.get('/api/cases/:id', function(req, res){
     var caseDetails = db.filter(function (currentCase){
@@ -44,7 +45,7 @@ app.get('/api/cases/:id', function(req, res){
 
 
 /**
- * http://localhost:3000/api/cases/00189394/comments
+ * /api/cases/00189394/comments
  */
 app.get('/api/cases/:id/comments', function(req, res){
     var findedCase = db.filter(function (currentCase){
@@ -53,4 +54,4 @@ app.get('/api/cases/:id/comments', function(req, res){
     res.json(findedCase ? findedCase.comments : []);
 });
 
-app.listen(3000);
+app.listen(port);

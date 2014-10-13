@@ -1,4 +1,4 @@
-exports.db = [
+module.exports = [
     {
         "sid": "500R0000004o37XIAQ",
         "id": "00189394",
@@ -15,7 +15,7 @@ exports.db = [
             },
             {
                 "user": "Test",
-                "message": "Second test message"
+                "message": "Test message"
             }
         ]
     },
@@ -27,7 +27,17 @@ exports.db = [
         "status": "Open",
         "createdDate": "2014-10-03T10:01:12Z",
         "closedDate": null,
-        "description": "Check changing account name of a case creator  after renaming RA user"
+        "description": "Check changing account name of a case creator  after renaming RA user",
+        "comments": [
+            {
+                "user": "Test",
+                "message": "Test message 2"
+            },
+            {
+                "user": "Test",
+                "message": "Test message 3"
+            }
+        ]
     },
     {
         "sid": "500R0000004o37NIAQ",
@@ -37,7 +47,17 @@ exports.db = [
         "status": "Open",
         "createdDate": "2014-10-03T09:56:50Z",
         "closedDate": null,
-        "description": "Check the creation of SF account"
+        "description": "Check the creation of SF account",
+        "comments": [
+            {
+                "user": "Test",
+                "message": "Test message 3"
+            },
+            {
+                "user": "Test",
+                "message": "Test message 4"
+            }
+        ]
     },
     {
         "sid": "500R0000004maDTIAY",
@@ -47,7 +67,17 @@ exports.db = [
         "status": "Open",
         "createdDate": "2014-09-04T15:06:23Z",
         "closedDate": null,
-        "description": "I expected to see 6/14 data"
+        "description": "I expected to see 6/14 data",
+        "comments": [
+            {
+                "user": "Test",
+                "message": "Test message 5"
+            },
+            {
+                "user": "Test",
+                "message": "Test message 6"
+            }
+        ]
     },
     {
         "sid": "500R0000004mVeiIAE",
@@ -57,7 +87,17 @@ exports.db = [
         "status": "Open",
         "createdDate": "2014-09-04T14:08:59Z",
         "closedDate": "2014-10-03T10:10:07Z",
-        "description": "case two"
+        "description": "case two",
+        "comments": [
+            {
+                "user": "Test",
+                "message": "Test message 7"
+            },
+            {
+                "user": "Test",
+                "message": "Test message 8"
+            }
+        ]
     },
     {
         "sid": "500R0000004mNYIIA2",
@@ -67,7 +107,17 @@ exports.db = [
         "status": "Open",
         "createdDate": "2014-08-29T10:36:32Z",
         "closedDate": null,
-        "description": "RA Rocks!"
+        "description": "RA Rocks!",
+        "comments": [
+            {
+                "user": "Test",
+                "message": "Test message 9"
+            },
+            {
+                "user": "Test",
+                "message": "Test message 10"
+            }
+        ]
     },
     {
         "sid": "500R0000004mIYSIA2",

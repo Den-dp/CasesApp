@@ -1,3 +1,4 @@
-angular.module('CasesApp').controller('ClosedCasesListController', function($scope, ClosedCasesFactory){
-    $scope.cases = ClosedCasesFactory.query();
-});
+angular.module('CasesApp')
+    .controller('ClosedCasesListController', function ($scope, CasesFactory) {
+        $scope.cases = CasesFactory.query({closed: true});
+    });

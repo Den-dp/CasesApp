@@ -6,9 +6,9 @@
         <a href="" ui-sref="closed">closed</a>
     </li>
 </ul>
-<br/>
+
 <ul class="nav nav-pills nav-stacked">
     <li ui-sref-active="active" ng-repeat="case in cases">
-        <a href="" ui-sref="cases.details({caseId:case.number})">{{case.subject}}</a>
+        <a href="" ui-sref=".details({caseId:case.id})">{{case.subject}}</a>
     </li>
 </ul>
