@@ -1,263 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77d799b3-0a10-4c4d-98e6-ea2dfa5293d3" name="Default" comment="add missing webapi package.json">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/Cases/DetailsController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/style.css" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\Cases\CaseDetailsController.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\Cases\resources\ClosedCasesFactory.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular-resource\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular-resource\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular-resource\angular-resource.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular-resource\angular-resource.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular-resource\angular-resource.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular-resource\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular-resource\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular\angular-csp.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular\angular.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular\angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular\angular.min.js.gzip" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular\angular.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\angular\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\dist\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\dist\css\bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\dist\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\dist\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\dist\css\bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\dist\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\dist\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\dist\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\grunt\bs-glyphicons-data-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\grunt\bs-lessdoc-parser.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\grunt\bs-raw-files-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\grunt\sauce_browsers.yml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\js\affix.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\js\alert.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\js\button.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\js\carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\js\collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\js\dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\js\modal.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\js\popover.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\js\scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\js\tab.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\js\tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\js\transition.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\badges.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\close.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\code.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\forms.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\glyphicons.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\grid.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\input-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\jumbotron.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\labels.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\media.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\background-variant.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\border-radius.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\center-block.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\clearfix.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\forms.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\gradients.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\grid-framework.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\grid.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\hide-text.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\image.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\labels.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\nav-divider.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\nav-vertical-align.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\opacity.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\panels.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\progress-bar.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\reset-filter.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\resize.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\responsive-visibility.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\size.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\tab-focus.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\table-row.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\text-emphasis.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\text-overflow.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\mixins\vendor-prefixes.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\modals.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\navs.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\pager.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\panels.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\print.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\responsive-embed.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\tables.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\theme.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\type.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\variables.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\less\wells.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\bootstrap\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\dist\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\dist\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\dist\jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\ajax\jsonp.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\ajax\load.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\ajax\parseJSON.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\ajax\parseXML.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\ajax\script.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\ajax\var\nonce.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\ajax\var\rquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\ajax\xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\attributes.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\attributes\attr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\attributes\classes.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\attributes\prop.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\attributes\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\attributes\val.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\core.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\core\access.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\core\init.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\core\parseHTML.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\core\ready.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\core\var\rsingleTag.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\css.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\css\addGetHookIf.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\css\curCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\css\defaultDisplay.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\css\hiddenVisibleSelectors.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\css\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\css\swap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\css\var\cssExpand.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\css\var\getStyles.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\css\var\isHidden.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\css\var\rmargin.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\css\var\rnumnonpx.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\data.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\data\Data.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\data\accepts.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\data\var\data_priv.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\data\var\data_user.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\deprecated.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\effects.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\effects\Tween.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\effects\animatedSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\event.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\event\alias.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\event\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\exports\amd.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\exports\global.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\intro.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\manipulation.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\manipulation\_evalUrl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\manipulation\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\manipulation\var\rcheckableType.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\offset.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\outro.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\queue.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\queue\delay.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\selector-native.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\selector-sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\selector.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\serialize.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\sizzle\dist\sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\sizzle\dist\sizzle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\sizzle\dist\sizzle.min.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\traversing.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\traversing\findFilter.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\traversing\var\rneedsContext.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\var\arr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\var\class2type.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\var\concat.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\var\hasOwn.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\var\indexOf.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\var\pnum.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\var\push.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\var\rnotwhite.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\var\slice.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\var\strundefined.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\var\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\var\toString.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\jquery\src\wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\api\angular-ui-router.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\release\angular-ui-router.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\release\angular-ui-router.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\src\common.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\src\resolve.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\src\state.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\src\stateDirectives.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\src\stateFilters.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\src\templateFactory.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\src\urlMatcherFactory.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\src\urlRouter.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\src\view.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\src\viewDirective.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\lib\ui-router\src\viewScroll.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\client\partials\list-closed.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\server\package.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.bowerrc" afterPath="$PROJECT_DIR$/.bowerrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/Cases/resources/CaseCommentsFactory.js" afterPath="$PROJECT_DIR$/client/Cases/resources/CaseCommentsFactory.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/CasesApp.iml" afterPath="$PROJECT_DIR$/.idea/CasesApp.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/Cases/resources/CasesFactory.js" afterPath="$PROJECT_DIR$/client/Cases/resources/CasesFactory.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/Cases/CasesListController.js" afterPath="$PROJECT_DIR$/client/Cases/CasesListController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/Cases/ClosedCasesListController.js" afterPath="$PROJECT_DIR$/client/Cases/ClosedCasesListController.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/app.js" afterPath="$PROJECT_DIR$/client/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/data.js" afterPath="$PROJECT_DIR$/server/data.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/partials/details.tpl.html" afterPath="$PROJECT_DIR$/client/partials/details.tpl.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/partials/empty.tpl.html" afterPath="$PROJECT_DIR$/client/partials/empty.tpl.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/index.html" afterPath="$PROJECT_DIR$/client/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/partials/list.tpl.html" afterPath="$PROJECT_DIR$/client/partials/list.tpl.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\Dropbox\work\projects\CasesApp\server\server.js" afterPath="$PROJECT_DIR$/server/app.js" />
+    <list default="true" id="77d799b3-0a10-4c4d-98e6-ea2dfa5293d3" name="Default" comment="some code simplifications">
+      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\.idea\CasesApp.iml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\.idea\jsLibraryMappings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\.idea\libraries\CasesApp_node_modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\.idea\scopes\scope_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="D:\Dropbox\work\projects\CasesApp\.idea\workspace.xml" afterPath="" />
     </list>
     <ignored path="CasesApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -284,7 +38,7 @@
       <file leaf-file-name="details.tpl.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/partials/details.tpl.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="272">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -294,7 +48,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="646">
+            <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="646">
               <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
               <folding />
             </state>
@@ -304,7 +58,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+            <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="272">
               <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
@@ -314,7 +68,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0867347" vertical-offset="0" max-vertical-offset="588">
+            <state vertical-scroll-proportion="0.086440675" vertical-offset="0" max-vertical-offset="590">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
@@ -356,10 +110,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1003">
               <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-              <folding>
-                <marker date="1413197768000" expanded="true" signature="389:1026" placeholder="{...}" />
-                <marker date="1413197768000" expanded="true" signature="418:537" placeholder="{&quot;script&quot;: 'server/app.js'...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -462,7 +213,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -538,49 +289,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Default" />
+        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasesApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasesApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cases" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasesApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CasesApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Cases" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            <PATH_ELEMENT USER_OBJECT="CasesApp">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -642,14 +367,10 @@
       <ConfigurationWrapper RunnerId="Js.BuildTools.Gulp" />
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
-      <method />
-    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -657,6 +378,10 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -740,34 +465,40 @@
       <option name="project" value="LOCAL" />
       <updated>1412803581067</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="some code simplifications">
+      <created>1413231863863</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1413231863863</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="49" width="1184" height="908" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26465365" sideWeight="0.37296417" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26465365" sideWeight="0.375" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32862645" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21181001" sideWeight="0.49921754" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2112676" sideWeight="0.4991119" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26465365" sideWeight="0.62540716" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26465365" sideWeight="0.625" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20608108" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2112676" sideWeight="0.5008881" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32908705" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32610938" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32610938" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3991727" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30492812" sideWeight="0.49839744" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30492812" sideWeight="0.49839744" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -788,7 +519,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Proper routing and simple webapi server" />
     <MESSAGE value="add missing webapi package.json" />
-    <option name="LAST_COMMIT_MESSAGE" value="add missing webapi package.json" />
+    <MESSAGE value="some code simplifications" />
+    <option name="LAST_COMMIT_MESSAGE" value="some code simplifications" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1111,10 +843,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="1003">
           <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding>
-            <marker date="1413197768000" expanded="true" signature="389:1026" placeholder="{...}" />
-            <marker date="1413197768000" expanded="true" signature="418:537" placeholder="{&quot;script&quot;: 'server/app.js'...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1159,7 +888,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8461537" vertical-offset="0" max-vertical-offset="646">
+        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="646">
           <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
           <folding />
         </state>
@@ -1175,7 +904,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0867347" vertical-offset="0" max-vertical-offset="588">
+        <state vertical-scroll-proportion="0.086440675" vertical-offset="0" max-vertical-offset="590">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
