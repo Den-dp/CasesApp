@@ -1,4 +1,4 @@
-angular.module('CasesApp', ['ui.router', 'ngResource'])
+angular.module('CasesApp', ['ngAnimate', 'ui.router', 'ngResource'])
     .config(function ($stateProvider, $urlRouterProvider) {
 
         $urlRouterProvider.otherwise("/cases");

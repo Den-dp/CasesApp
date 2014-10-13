@@ -6,19 +6,21 @@
     <script src="lib/jquery/dist/jquery.js"></script>
     <script src="lib/angular/angular.js"></script>
     <script src="lib/angular-resource/angular-resource.js"></script>
+    <script src="lib/angular-animate/angular-animate.js"></script>
     <script src="lib/ui-router/release/angular-ui-router.js"></script>
     <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.css"/>
+    <link rel="stylesheet" href="lib/animate.css/animate.css"/>
     <link rel="stylesheet" href="style.css"/>
 </head>
 <body>
 
     <div class="cases container-fluid">
         <div class="row">
-            <div class="col-xs-12 col-sm-4 col-md-3 col-lg-2">
-                <div ui-view="sidebar"></div>
+            <div class="ui-view-container col-xs-12 col-sm-4 col-md-3 col-lg-2">
+                <div class="sidebar-animation" ui-view="sidebar"></div>
             </div>
-            <div class="col-xs-12 col-sm-8 col-md-9 col-lg-10">
-                <div ui-view="content"></div>
+            <div class="ui-view-container col-xs-12 col-sm-8 col-md-9 col-lg-10">
+                <div class="content-animation" ui-view="content"></div>
             </div>
         </div>
     </div>

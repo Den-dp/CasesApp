@@ -9,3 +9,39 @@
 .empty{
     margin-top: 50px;
 }
+
+.ui-view-container {
+    position: relative;
+}
+
+.content-animation{
+    width: 100%;
+}
+
+.content-animation.ng-enter{
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+.content-animation.ng-leave{
+    position: absolute;
+    top: 0;
+    -webkit-animation: fadeOut .5s;
+    animation: fadeOut .5s;
+}
+
+.sidebar-animation{
+    width: 100%;
+}
+
+.sidebar-animation.ng-enter{
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+.sidebar-animation.ng-leave{
+    position: absolute;
+    top: 0;
+    -webkit-animation: fadeOut .5s;
+    animation: fadeOut .5s;
+}
