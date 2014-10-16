@@ -1,7 +1,7 @@
 CasesApp
 ========
 
-POC project writed on AngularJS
+POC project written in AngularJS
 
 
 Installation and running:
