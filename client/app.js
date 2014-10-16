@@ -48,6 +48,4 @@ angular.module('CasesApp', ['ngAnimate', 'ui.router', 'ngResource'])
             })
 
     })
-    .run(['$rootScope', '$state', function(rootScope, state){
-        rootScope.$state = state;
-    }]);
+    .run();
